@@ -85,6 +85,22 @@
 Чтобы смержить ветку Feature_1 с веткой main мы переключаемся в ветку main и кликаем правой кнопкой мыши по ветке Feature_1, выбираем Merge. В появившемся поле выбираем Create Merge-Commit. происходит слияние 
 ![image](https://user-images.githubusercontent.com/118339667/207392661-87590577-0cb6-4c92-be7e-cabc3638e6e7.png)
 
+### Клонирование удаленного репозитория
+
+Во вкладке Repository выбираем clone. В появившееся поле вводим адрес удаленного репозитория, который хотим клонировать, нажимаем Next
+
+![image](https://user-images.githubusercontent.com/118339667/207393756-33da0491-4faa-40e1-bae8-7e06847b527d.png)
+
+Затем выбираем название ветки (main),и указываем адрес, куда будет клонироваться удаленный репозиторий, нажимаем finish (адрес в скрине указала ошибочно, изменение на test8)
+
+![image](https://user-images.githubusercontent.com/118339667/207395103-6fcd9d59-b50c-4c1e-9def-962e81cf7ec2.png)
+
+Появляется вкладка test8 c содержимым удаленного репозитория
+
+![image](https://user-images.githubusercontent.com/118339667/207396050-16cbadcb-4261-49d1-bc42-a37d0dc26315.png)
+
+
+
 
 
 
