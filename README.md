@@ -120,6 +120,13 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207409832-4873a5a5-b3b7-4984-b482-0bd136ad628c.png)
 
+### Обновление удаленного репозитория (rebase)
+
+В удаленный репозиторий добавлен файл file6.txt а в локальный добавлен файл file7.txt
+В настройках репозитория переходим вовкладку pull и выбираем Rebase local...
+
+![image](https://user-images.githubusercontent.com/118339667/207411009-93685ccf-d92a-4efe-b31e-b889fa334fa2.png)
+
 
 
 
