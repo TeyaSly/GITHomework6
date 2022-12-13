@@ -131,6 +131,9 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207412060-66cfea2a-a9e7-4cce-a2a4-df4209eb31b3.png)
 
+нажимаем Push  и видим, что файл из локального репозитория добавился в удаленный репозиторий
+
+![image](https://user-images.githubusercontent.com/118339667/207412492-81d0a9a3-70ba-4819-87f1-d2325eb0f980.png)
 
 
 
