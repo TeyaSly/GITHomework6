@@ -57,6 +57,22 @@
 ![image](https://user-images.githubusercontent.com/118339667/207368019-ca09766e-8a17-4266-a0ff-416f0358681e.png)
 
 
+### Создание веток
+
+Для создания новой ветки нажимаем на кнопку Branch и выбираем Add Branch
+
+![image](https://user-images.githubusercontent.com/118339667/207369259-124d1995-76cd-46a1-95a7-03282dfc56bf.png)
+
+В открывшемся поле вводим название новой ветки, например, Feature_1 и нажимаем Add Branch (если не собираемся сразу переключаться на новую ветку)
+
+![image](https://user-images.githubusercontent.com/118339667/207370267-784a450a-dacc-468d-bdfa-f681229c3ba6.png)
+
+Создалась ветка, идентичная ветке main
+
+![image](https://user-images.githubusercontent.com/118339667/207371274-6c447077-85a0-499f-be63-2ccae3173ad7.png)
+
+
+
 
 
 
