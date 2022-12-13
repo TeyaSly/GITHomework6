@@ -116,6 +116,9 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207408762-2d6f3557-64ce-4731-af12-f91847045a0c.png)
 
+Нажимаем Push и видим, что новый файл file4.txt из локального добавился в удаленный репозиторий
+
+![image](https://user-images.githubusercontent.com/118339667/207409832-4873a5a5-b3b7-4984-b482-0bd136ad628c.png)
 
 
 
