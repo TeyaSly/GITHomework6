@@ -10,5 +10,4 @@
 ![image](https://user-images.githubusercontent.com/118339667/207332206-6c88731c-ee9f-4352-b2cf-7bdeb75c892e.png)
 
 Для индексации одного изменения выбираем y, а чтобы не индексировать второе изменение, выбираем n. Выполняем git status т видим, что файл doc.html находится одновременно в двух состояниях. То есть, команда git add -p позволяет индексировать изменения частично 
-![image](https://user-images.githubusercontent.com/118339667/207337278-2fb575fb-3401-4c79-8393-69cab534d286.png)
-
+![image](https://user-images.githubusercontent.com/118339667/207338238-8bb672b3-719c-4d9a-8570-e8fe72b26724.png)
