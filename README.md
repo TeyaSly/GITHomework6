@@ -35,6 +35,19 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207355915-cead9352-15c3-4b23-b6e6-ee383a8514b5.png)
 
+### Коммит изменений
+
+Чтобы закоммитить изменения, мы в окошке для коммитов пишем комментарий и нажимаем на кнопку Commit
+
+![image](https://user-images.githubusercontent.com/118339667/207357052-4c797df3-2c54-452d-9816-50f89944d603.png)
+
+После этого происходит автоматический переход на вкладку History, где мы видим ветку со всеми коммитами
+![image](https://user-images.githubusercontent.com/118339667/207359472-c264c868-411a-4f34-83f8-6db995e07f6b.png)
+
+
+
+
+
 
 
 
