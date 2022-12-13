@@ -105,8 +105,39 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207398349-dec4183e-171f-4b2e-94c6-57093352c92c.png)
 
+### Обновление удаленного репозитория (merge)
+
+В удаленный репозиторий добавлен файл file5.txtБ а влокальный добавлен файл file4.txt/
+В настройках репозитория переходим вовкладку pull и выбираем Merge fetch remote... 
+
+![image](https://user-images.githubusercontent.com/118339667/207407288-ad6b638d-1aeb-41d1-8d46-ee856b9eaf52.png)
+
+Нажимаем кнопку Pull. Файл file.5txt из удаленного репозитория мержится в локальный репозиторий и появляется новый коммит
+
+![image](https://user-images.githubusercontent.com/118339667/207408762-2d6f3557-64ce-4731-af12-f91847045a0c.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+н
 
 
 
