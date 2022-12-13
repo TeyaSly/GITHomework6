@@ -72,6 +72,15 @@
 ![image](https://user-images.githubusercontent.com/118339667/207371274-6c447077-85a0-499f-be63-2ccae3173ad7.png)
 
 
+В новой ветке Feature_1 создаем и коммитим новый файл file3.txt
+
+![image](https://user-images.githubusercontent.com/118339667/207375930-d8c7de99-2aa9-407c-a9aa-5e407a3d6bf9.png)
+
+при переходе в ветку main мы видим, что файла file3.txt в ней отсустствует
+
+![image](https://user-images.githubusercontent.com/118339667/207376551-55939f9d-ca81-4ddc-9ff5-d66fde4fdfcb.png)
+
+
 
 
 
