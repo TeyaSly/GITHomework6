@@ -99,6 +99,13 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207396050-16cbadcb-4261-49d1-bc42-a37d0dc26315.png)
 
+### Отправка изменений в удаленный репозиторий
+
+Чтобы отправить изменения в удаленный репозиторий, нажимаем Push
+
+![image](https://user-images.githubusercontent.com/118339667/207398349-dec4183e-171f-4b2e-94c6-57093352c92c.png)
+
+
 
 
 
