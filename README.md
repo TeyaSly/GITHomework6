@@ -80,6 +80,12 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207376551-55939f9d-ca81-4ddc-9ff5-d66fde4fdfcb.png)
 
+### Слияние веток
+
+Чтобы смержить ветку Feature_1 с веткой main мы переключаемся в ветку main и кликаем правой кнопкой мыши по ветке Feature_1, выбираем Merge. В появившемся поле выбираем Create Merge-Commit. происходит слияние 
+![image](https://user-images.githubusercontent.com/118339667/207392661-87590577-0cb6-4c92-be7e-cabc3638e6e7.png)
+
+
 
 
 
