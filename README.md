@@ -25,6 +25,21 @@
 ![image](https://user-images.githubusercontent.com/118339667/207349853-404e947e-5f5a-429e-8cf8-9e0236b7685e.png)
 ![image](https://user-images.githubusercontent.com/118339667/207350547-e4d24095-7db0-4593-8646-0c7bfe56106e.png)
 
+### Добавление изменений в индекс
+
+Чтобы добавить изменения файла doc.html в индекс - нажимаем на кнопку Stage 
+
+![image](https://user-images.githubusercontent.com/118339667/207355286-8895f717-c711-42c9-aac1-9108f628865c.png)
+
+Изменения проиндексированы и можем наглядно видеть, где какие изменения были внесены
+
+![image](https://user-images.githubusercontent.com/118339667/207355915-cead9352-15c3-4b23-b6e6-ee383a8514b5.png)
+
+
+
+
+
+
 
 
 
