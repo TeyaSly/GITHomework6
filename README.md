@@ -127,6 +127,9 @@
 
 ![image](https://user-images.githubusercontent.com/118339667/207411009-93685ccf-d92a-4efe-b31e-b889fa334fa2.png)
 
+Нажимаем Pull. Файл из удаленного репозитория появился в локальном, но только с теми соммитами, которые мы сами создали, а не автоматически
+
+![image](https://user-images.githubusercontent.com/118339667/207412060-66cfea2a-a9e7-4cce-a2a4-df4209eb31b3.png)
 
 
 
